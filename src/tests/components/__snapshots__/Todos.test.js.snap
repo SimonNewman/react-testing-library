@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Button component and simulates adding a todo 1`] = `
+[
+  <label>
+    New Todo
+    <input
+      className="border border-black text-black"
+      onChange={[Function]}
+      value=""
+    />
+  </label>,
+  <button
+    onClick={[Function]}
+  >
+    Add Todo
+  </button>,
+]
+`;
